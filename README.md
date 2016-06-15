@@ -19,6 +19,6 @@ Learning outcomes:
 - ViewHolder
 
 The future holds:
-- location aware
+- ~~location aware~~
 - unit tests
 
